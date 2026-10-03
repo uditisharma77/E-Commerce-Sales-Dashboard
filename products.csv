@@ -1,0 +1,71 @@
+Product_ID,Product_Name,Category,Price (INR),Reason of Buying
+1,Nike Running Shoes,Shoes,1935,Quality
+2,Adidas Sneakers,Shoes,441,Brand Trust
+3,Leather Formal Shoes,Shoes,1534,Festival
+4,Canvas Loafers,Shoes,1199,Easy Returns
+5,Cotton T-Shirt,T-Shirt,1444,Cashback Offers
+6,Graphic T-Shirt,T-Shirt,1112,Ad Influence
+7,Polo Shirt,Shirt,409,Quality
+8,Denim Shirt,Shirt,252,Festival
+9,Formal White Shirt,Shirt,1605,Brand Trust
+10,Checked Casual Shirt,Shirt,259,Cashback Offers
+11,Blue Jeans,Trousers,1096,Easy Returns
+12,Black Skinny Jeans,Trousers,672,Ad Influence
+13,Cargo Pants,Trousers,1141,Quality
+14,Chino Trousers,Trousers,1915,Cashback Offers
+15,Running Shorts,Shorts,1488,Festival
+16,Cotton Hoodie,Hoodie,1721,Brand Trust
+17,Zip-Up Jacket,Jacket,1899,Easy Returns
+18,Leather Belt,Accessories,781,Quality
+19,Wool Scarf,Accessories,1234,Ad Influence
+20,Baseball Cap,Accessories,697,Festival
+21,Sunglasses,Eyewear,1561,Brand Trust
+22,Analog Watch,Watch,1639,Cashback Offers
+23,Smartwatch,Watch,1098,Quality
+24,Wireless Earbuds,Electronics,535,Easy Returns
+25,Bluetooth Speaker,Electronics,1202,Ad Influence
+26,Gaming Mouse,Electronics,289,Festival
+27,Mechanical Keyboard,Electronics,548,Cashback Offers
+28,Laptop Stand,Accessories,1778,Brand Trust
+29,USB Flash Drive,Electronics,1252,Quality
+30,Portable Charger,Electronics,751,Easy Returns
+31,Smartphone,Electronics,1804,Festival
+32,Tablet,Electronics,1792,Ad Influence
+33,Laptop,Electronics,314,Brand Trust
+34,Monitor,Electronics,1335,Cashback Offers
+35,Webcam,Electronics,1865,Quality
+36,Desk Lamp,Home Decor,203,Festival
+37,Office Chair,Furniture,1428,Easy Returns
+38,Study Table,Furniture,562,Brand Trust
+39,Water Bottle,Kitchenware,387,Ad Influence
+40,Coffee Mug,Kitchenware,1923,Cashback Offers
+41,Electric Kettle,Appliances,1977,Quality
+42,Air Fryer,Appliances,1744,Easy Returns
+43,Vacuum Cleaner,Appliances,750,Festival
+44,Bed Sheet,Home Textile,794,Brand Trust
+45,Pillow Cover,Home Textile,722,Cashback Offers
+46,Blanket,Home Textile,758,Ad Influence
+47,Bath Towel,Home Textile,1638,Quality
+48,Shampoo,Personal Care,433,Festival
+49,Face Wash,Personal Care,903,Easy Returns
+50,Body Lotion,Personal Care,422,Brand Trust
+51,Perfume,Personal Care,1084,Cashback Offers
+52,Lipstick,Beauty,236,Quality
+53,Foundation Cream,Beauty,1672,Ad Influence
+54,Sunscreen,Beauty,1236,Festival
+55,Yoga Mat,Fitness,1904,Easy Returns
+56,Dumbbells,Fitness,1272,Brand Trust
+57,Resistance Bands,Fitness,1582,Cashback Offers
+58,Football,Sports,1492,Quality
+59,Basketball,Sports,811,Festival
+60,Tennis Racket,Sports,827,Ad Influence
+61,Backpack,Bags,810,Easy Returns
+62,Laptop Bag,Bags,1356,Brand Trust
+63,Travel Suitcase,Bags,1348,Cashback Offers
+64,Wallet,Accessories,1878,Quality
+65,Notebook,Stationery,1895,Festival
+66,Ball Pen,Stationery,610,Brand Trust
+67,Desk Organizer,Stationery,1374,Easy Returns
+68,Novel Book,Books,597,Ad Influence
+69,Cookbook,Books,998,Cashback Offers
+70,Baggy Jeans,Trousers,866,Quality
