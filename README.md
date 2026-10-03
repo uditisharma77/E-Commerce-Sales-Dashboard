@@ -1,7 +1,9 @@
 # Excel-Dashboard
 # E-Commerce Sales Dashboard Project
 
-Recently built an **E-Commerce Sales Dashboard Project** using Excel tools like **Power Query, Power Pivot, Pivot Tables, Pivot Charts, and Slicers** to transform raw sales data into meaningful business insights.
+<img width="905" height="374" alt="Dashboard ss" src="https://github.com/user-attachments/assets/00e47127-0bba-40d1-88e8-97f979ba60a4" />
+
+Built a **E-Commerce Sales Dashboard Project** using Excel tools like **Power Query, Power Pivot, Pivot Tables, Pivot Charts, and Slicers** to transform raw sales data into meaningful business insights.
 
 The dashboard not only visualizes sales performance but also helps identify customer behaviour patterns, operational efficiency, seasonal demand trends, and market opportunities for strategic business decisions.
 
